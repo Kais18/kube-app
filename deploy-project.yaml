@@ -44,3 +44,4 @@ spec:
           volumeMounts:
            - name: vpro-db-data
              mouthPath: /var/lib/mysql
+
